@@ -7,7 +7,7 @@
 #### 投資方式：定期定額
 #### 標的
 
--- 台灣
+-- 台股
 * [0050](https://www.yuantaetfs.com/product/detail/0050/Basic_information)
 * [006208](https://www.fubon.com/asset-management/ph/Taiwan50_006208/index.html)
   
