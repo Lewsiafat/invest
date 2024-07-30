@@ -3,7 +3,7 @@
 ## 簡單低風險
 ### 台股EFT 
 #### 券商
-* [國泰綜合證券](https://istockapp.cathaysec.com.tw/Marketing/DCA/?initMessage=%E5%AE%9A%E6%9C%9F%E6%8A%95%E8%B3%87%E6%89%8B%E7%BA%8C%E8%B2%BB&initShowType=4)：手續費低可能還有別家)
+* [國泰綜合證券](https://istockapp.cathaysec.com.tw/Marketing/DCA/?initMessage=%E5%AE%9A%E6%9C%9F%E6%8A%95%E8%B3%87%E6%89%8B%E7%BA%8C%E8%B2%BB&initShowType=4)：手續費低(可能還有別家)
 #### 投資方式：定期定額
 #### 標的
 
